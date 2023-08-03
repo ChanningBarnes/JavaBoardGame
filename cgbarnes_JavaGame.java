@@ -1,7 +1,5 @@
-/* Channing Barnes
- * 10/02/22
- * COMP167
- * Game to check if there is 4 Xs in a row
+
+ /* Game to check if there is 4 Xs in a row
  */
 package tt;
 import java.util.Scanner;
